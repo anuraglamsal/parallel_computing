@@ -1,4 +1,4 @@
-<strong>OpenCL exploration.</strong> <br>
+<strong>OpenCL experimentation.</strong> <br>
 
 Order of reading: <br> <br>
 1.) intro_and_parallelization_overhead.ipynb <br>
