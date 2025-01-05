@@ -1,6 +1,6 @@
 <strong>OpenCL exploration.</strong> <br>
 
-Order of reading:
+Order of reading: <br> <br>
 1.) intro_and_parallelization_overhead.ipynb <br>
 2.) naive_matmul_kernel.ipynb <br>
 3.) local_mem_useless.ipynb <br>
