@@ -1,3 +1,7 @@
-<strong>OpenCL notes.</strong> <br>
+<strong>OpenCL exploration.</strong> <br>
 
-Correction to "naive_matmul_kernel" is in "cache_theory". 
+Order of reading:
+1.) intro_and_parallelization_overhead.ipynb
+2.) naive_matmul_kernel.ipynb
+3.) local_mem_useless.ipynb
+4.) cache_theory.ipynb
